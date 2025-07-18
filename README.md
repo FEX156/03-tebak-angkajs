@@ -1,5 +1,7 @@
 # 🔢 Tebak Angka CLI Game
 
+challenges by: https://roadmap.sh/projects/number-guessing-game
+
 Game CLI sederhana berbasis Node.js di mana kamu harus menebak angka yang dipilih secara acak oleh komputer. Cocok untuk belajar logika, kontrol alur, dan interaksi CLI!
 
 ## 🎮 Cara Main
